@@ -1,0 +1,24 @@
+#content {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    padding: 50px;
+    border-style: groove;
+    margin: 5% 35%;
+    /*margin-right: 20%;*/
+}
+#nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.account h1 {
+    text-align: center;
+    background: #E3F0AF;
+}
+#logo img {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+}
